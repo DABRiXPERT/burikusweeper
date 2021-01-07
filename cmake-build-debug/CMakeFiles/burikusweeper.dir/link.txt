@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\burikusweeper.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\burikusweeper.dir/objects.a @CMakeFiles\burikusweeper.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\burikusweeper.dir/objects.a -Wl,--no-whole-archive  -o burikusweeper.exe -Wl,--out-implib,libburikusweeper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\burikusweeper.dir\linklibs.rsp

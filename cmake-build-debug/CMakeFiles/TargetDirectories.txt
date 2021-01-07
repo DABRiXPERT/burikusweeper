@@ -1,0 +1,3 @@
+C:/Users/redab/OneDrive/Documents/burikusweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/redab/OneDrive/Documents/burikusweeper/cmake-build-debug/CMakeFiles/burikusweeper.dir
+C:/Users/redab/OneDrive/Documents/burikusweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
